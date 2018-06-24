@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/ReactNativeWithSendBird/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    }
+]

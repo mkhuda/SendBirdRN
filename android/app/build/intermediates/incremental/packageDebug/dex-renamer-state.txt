@@ -1,0 +1,4 @@
+#Fri Jun 22 15:36:16 WIB 2018
+base.0=/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

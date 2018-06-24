@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mkh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_70d5ec6a8604e87561740e4cdba25e70de29e5a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_546fd4c8bdda696cd7457267bf615050204ebfa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.4_1f1300ff57dc639eec6e890848617186f336953b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e6f84ccaced683933f0577bcf8cc02eed02bce7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_442adc92ef74eb5edec71b456e10d2908c2773f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/ReactNativeWithSendBird/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="da9f5430568908248c6a0eacb45d35b75f77ce99">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/ReactNativeWithSendBird-react-native-fcm-unspecified_514ecb21b98d2d00c0d63c9cd5bc485f043135e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_f769edafad7cfad877acfcd917c7185a2896923c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_dba04a7355c91f5da6c2015dcfaf53530c211137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_6d9a7811f56519c67cd2e43b4fe458f34898c71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b77e0a899c7a7ca11698a125ae4ed0f75b312df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_3818c7941e1c2479e3eeb7b0dbe518d97e3d14c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_3bf3a9cd5c456b956482ceb33f6e037efedc5e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.4_f41a314e7dc7aa57911852c53c01f8c448f846e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_eff8f9840c9521b8916d1c9d0efe08a05e5faab1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_757d81d218a8b0fd5f4297f98ec78541b4bbcbcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_dbf7a61d747f30e22114d5bbd0328d6efd3ef4f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/ReactNativeWithSendBird/react-native-fetch-blob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4072000a810aa5b5f14ec2fcbc030028f504e523">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/ReactNativeWithSendBird-react-native-fetch-blob-unspecified_4aa5c4e7bbc9764091c6973ac88109f59c3169be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_343edc8d56dcc328c5bb88a5b874ae29bbf7b55c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_6025bed1debd5396b96ca891d3bf2fec188cc326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_108efd61b33763078c3d8d716f59522a77abec90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5b5cfe369926307e052af6ba2606ec7eaa6793f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_95fd3f0fbfa22cd9c629de6c9f5ae7f856310b5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.4_7349f7b6924fbd606fbe613ce2990bc80d160354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_4e2047a813717676068704e5eab1d01a84965fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.0.4_50f1ec1c9a36e8c11e54913ef3a266c975f0aa87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/ReactNativeWithSendBird/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="136999a78aafdd25ac69b90415f1765c478042ae">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/ReactNativeWithSendBird-react-native-image-picker-unspecified_6d46d2b59ce8a46054f15aa629503a7b14abf252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_275ee17a728502b8cd021314e84456c26b8adb4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_27a7d3ea6441b71d55ac582b25218edb257beaa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_356195719d45fd6247d1d837e9a3ee4b2a2d31dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.17_61b2467a985ccf486643dee5affa36b3bfdb1f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_1d37606759ebb65c13c2b2e445fbd6138440cb57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_847d070c21101ca0605fcc3f9dc91e8d1d37e88c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_e0dfd854ec91943b44139b9e67dcd9b77f3cab16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.4_987b6e34427c04dbaadde276a09cfaf81df3c075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_56ad1df175187c4dc87a3858e07f88c4defb7ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_bc9138eaa7eb4871e7a0e77d53c7fddc3841ea7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/exploded-aar/ReactNativeWithSendBird/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e8ab25e82aeac62f0f98ad05caaa49a5821c499">
+        <dex dex="/home/mkh/Public/React/ReactNativeWithSendBird/android/app/build/intermediates/pre-dexed/debug/ReactNativeWithSendBird-react-native-vector-icons-unspecified_77e90e844228c700ed320db9744c84263a23098d.jar" />
+    </item>
+
+</items>
